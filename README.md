@@ -1,1 +1,1 @@
-# power_bi_workship
+# power-bi-workshop
